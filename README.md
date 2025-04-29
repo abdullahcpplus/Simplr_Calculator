@@ -1,5 +1,6 @@
 # Simple Calculator
 This sofware is designed for oly basic calculation. For examle +,-,*,/ thi software is not capable for advance calculation for example scientific calculation.
+
 Here's some screenshots.
 
 ![simple1](https://github.com/user-attachments/assets/32a04810-7ca7-4f30-9f0e-ce45fe36af5f)
